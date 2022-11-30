@@ -30,9 +30,8 @@ Feel free to view more on Linkedin 😄 .
 
 <img
   src="Caron_Sathekge.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-height: 200px, max-width: 200px">
+  alt="A picture of Caron Sathekge"
+  style="display: inline-block; margin: 0 auto; height: 200px, width: 200px">
 
 <!--
 **MrSathekge/MrSathekge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
