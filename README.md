@@ -28,6 +28,12 @@ Currently working on obtaining the **AWS Cloud Foundations** certificate.
 
 Feel free to view more on Linkedin 😄 .
 
+<img
+  src="Caron_Sathekge.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 <!--
 **MrSathekge/MrSathekge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
