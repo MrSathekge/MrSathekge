@@ -6,22 +6,25 @@ I am a Mathematical & Computer Science graduate, view here: https://www.youtube.
 
 Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learning, AWS EC2.
 
-Highly Skilled In:
+**Highly Skilled In:**
 Team Leading, Project Management, Communication, Data Science Life Cycle.
 
 Machine Learning models I've worked on:
 Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
 Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
 
-Worked on a Load Shortfall Project as the Team Lead, where the team's model obtained 68 - 74% accuracy when predicting the 3-hourly load shorfall.(https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022/leaderboard)
+Worked on a **Load Shortfall Project** as the Team Lead, where the team's model obtained **68 - 74% accuracy** when predicting the 3-hourly load shorfall.
+- View the leaderboard here: (https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022/leaderboard)
 
 
-Worked on a Twitter Sentiment Classification project as the Team Lead, where the team's models obtained an F1-score of 0.753. (https://www.kaggle.com/competitions/edsa-sentiment-classification/leaderboard) . Currently working on a Streamlit App to create our web application.
+Worked on a **Twitter Sentiment Classification** project as the Team Lead, where the team's models obtained an **F1-score** of **0.753**.
+- View the leaderboard here: (https://www.kaggle.com/competitions/edsa-sentiment-classification/leaderboard).
+- Currently working on a Streamlit App to create our web application.
 
-Tools:
+**Tools:**
 AWS, Jupyter Notebook, Git and GitHub, Virtual Studio Code, PowerBI, Trello, Discord, Slack.
 
-Currently working on obtaining the AWS Cloud Foundations certificate.
+Currently working on obtaining the **AWS Cloud Foundations** certificate.
 
 Feel free to view more on Linkedin 😄 .
 
