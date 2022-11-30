@@ -10,8 +10,8 @@ Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learni
 Team Leading, Project Management, Communication, Data Science Life Cycle.
 
 Machine Learning models I've worked on:
-Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
-Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
+- Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
+- Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
 
 Worked on a **Load Shortfall Project** as the Team Lead, where the team's model obtained **68 - 74% accuracy** when predicting the 3-hourly load shorfall.
 - View the leaderboard here: (https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022/leaderboard)
