@@ -7,7 +7,7 @@ I am a Mathematical & Computer Science graduate, view here: https://www.youtube.
 Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learning, AWS EC2.
 
 **Highly Skilled In:**
-Team Leading, Project Management, Communication, Data Science Life Cycle.
+Team Leading, Project Management, Time Management, Communication, Data Science Life Cycle.
 
 Machine Learning models I've worked on:
 - Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
