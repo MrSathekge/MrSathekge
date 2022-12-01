@@ -14,11 +14,11 @@ Machine Learning models I've worked on:
 - Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
 
 Worked on a **Load Shortfall Project** as the Team Lead, where the team's model obtained **68 - 74% accuracy** when predicting the 3-hourly load shorfall.
-- View the leaderboard here: (https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022/leaderboard), position #13 of 91.
+- View the leaderboard here: https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022/leaderboard.
 
 
 Worked on a **Twitter Sentiment Classification** project as the Team Lead, where the team's models obtained an **F1-score** of **0.753**.
-- View the leaderboard here: (https://www.kaggle.com/competitions/edsa-sentiment-classification/leaderboard).
+- View the leaderboard here: https://www.kaggle.com/competitions/edsa-sentiment-classification/leaderboard.
 - Currently working on a Streamlit App to create our web application.
 
 **Tools:**
