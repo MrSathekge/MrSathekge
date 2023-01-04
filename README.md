@@ -1,5 +1,5 @@
 ### Hi there 👋
-LinkedIn: https://www.linkedin.com/in/1mrsathekge/, Kaggle Username: caronsathekge
+LinkedIn: https://www.linkedin.com/in/1mrsathekge/, Kaggle: https://www.kaggle.com/caronsathekge
 
 I'm an intern Data Scientist at ExploreAI Academy.
 I am a Mathematical & Computer Science graduate, view here: https://www.youtube.com/watch?v=UibOhkZMYW8.
@@ -13,14 +13,6 @@ Machine Learning models I've worked on:
 - Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
 - Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
 
-Worked on a **Load Shortfall Project** as the Team Lead, where the team's model obtained **68 - 74% accuracy** when predicting the 3-hourly load shorfall.
-- View the leaderboard here: https://www.kaggle.com/competitions/spain-electricity-shortfall-challenge-2022/leaderboard.
-
-
-Worked on a **Twitter Sentiment Classification** project as the Team Lead, where the team's models obtained an **F1-score** of **0.753**.
-- View the leaderboard here: https://www.kaggle.com/competitions/edsa-sentiment-classification/leaderboard.
-- Currently working on a Streamlit App to create our web application.
-
 **Tools:**
 AWS, Jupyter Notebook, Git and GitHub, Virtual Studio Code, PowerBI, Trello, Discord, Slack.
 
@@ -31,7 +23,7 @@ Feel free to view more on Linkedin 😄 .
 <img
   src="Caron_Sathekge.jpg"
   alt="A picture of Caron Sathekge"
-  style="display: inline-block; margin: 0 auto; max-height: 70px; max-width: 70px">
+  style="display: inline-block; margin: 0 auto; height: 120px; width: 120px">
 
 <!--
 **MrSathekge/MrSathekge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
