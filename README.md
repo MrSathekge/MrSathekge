@@ -12,7 +12,7 @@ Team Leading, Project Management, Time Management, Communication, Data Science L
 Machine Learning models I've worked on:
 - Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
 - Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
-- Unsupervised: Content-based and collaborative filtering using Singular Value Decomposition, Non-negative Matrix Factorization, Clustering, and Principal Component Analysis(PCA) to identify the most important features that contribute to a user's movie preferences.
+- Unsupervised: Content-based and collaborative filtering using Singular Value Decomposition, Non-negative Matrix Factorization, Clustering to group movies together based on their similarity in terms of genre, director, actors, and other features, and Principal Component Analysis(PCA) to identify the most important features that contribute to a user's movie preferences.
 
 **Tools:**
 AWS, Jupyter Notebook, Git and GitHub, Virtual Studio Code, PowerBI, Trello, Discord, Slack.
