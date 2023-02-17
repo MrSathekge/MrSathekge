@@ -12,6 +12,7 @@ Team Leading, Project Management, Time Management, Communication, Data Science L
 Machine Learning models I've worked on:
 - Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
 - Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
+- Unsupervised: Content-based and collaborative filtering using Singular Value Decomposition, Clustering, Principal Component Analysis (PCA).
 
 **Tools:**
 AWS, Jupyter Notebook, Git and GitHub, Virtual Studio Code, PowerBI, Trello, Discord, Slack.
