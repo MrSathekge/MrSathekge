@@ -1,5 +1,5 @@
 ### Hi there, I'm Caron <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="Matheti-Caron-Sathekge-aws-certified-cloud-practitioner.png" alt="My AWS Certified Cloud Practitioner Badge" width="130" height="130"/>
+<img src="Matheti-Caron-Sathekge-aws-certified-cloud-practitioner.png" alt="My AWS Certified Cloud Practitioner Badge" width="150" height="150"/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1mrsathekge/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CaronSathekge)
@@ -23,7 +23,7 @@ Machine Learning models I've worked on:
 
 ### Languages and tools ⚙️
 AWS, Jupyter Notebook, Git and GitHub, Virtual Studio Code, PowerBI, Trello, Discord, Slack.
-
+---
 Feel free to view more on Linkedin 😄 .
 
 <img
