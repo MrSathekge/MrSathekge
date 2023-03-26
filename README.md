@@ -1,5 +1,5 @@
-### Hi there, I'm Caron 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="My AWS Certified Cloud Practitioner Badge" width="100" height="100"/>
+### Hi there, I'm Caron <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="Matheti-Caron-Sathekge-aws-certified-cloud-practitioner.png" alt="My AWS Certified Cloud Practitioner Badge" width="100" height="100"/>
 LinkedIn: https://www.linkedin.com/in/1mrsathekge/, Kaggle: https://www.kaggle.com/caronsathekge
 
 I'm an intern Data Scientist at ExploreAI Academy.
