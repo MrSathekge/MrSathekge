@@ -6,21 +6,22 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]([https://youtube.com/@rishabkumar7](https://www.youtube.com/watch?v=UibOhkZMYW8))
 <br>
 Kaggle: https://www.kaggle.com/caronsathekge
+---
 
 I'm an intern Data Scientist at ExploreAI Academy.
 I am a Mathematical & Computer Science graduate.
-
+---
 Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learning, AWS EC2.
 
 **Highly Skilled In:**
 Team Leading, Project Management, Time Management, Communication, Data Science Life Cycle.
-
+---
 Machine Learning models I've worked on:
 - Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
 - Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
 - Unsupervised: Content-based and collaborative filtering using Singular Value Decomposition, Non-negative Matrix Factorization, Clustering to group movies together based on their similarity in terms of genre, director, actors, and other features, and Principal Component Analysis(PCA) to identify the most important features that contribute to a user's movie preferences.
 
-**Tools:**
+### Languages and tools ⚙️
 AWS, Jupyter Notebook, Git and GitHub, Virtual Studio Code, PowerBI, Trello, Discord, Slack.
 
 Feel free to view more on Linkedin 😄 .
