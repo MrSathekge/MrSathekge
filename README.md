@@ -1,5 +1,5 @@
 ### Hi there, I'm Caron <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="Matheti-Caron-Sathekge-aws-certified-cloud-practitioner.png" alt="My AWS Certified Cloud Practitioner Badge" width="100" height="100"/>
+<img src="Matheti-Caron-Sathekge-aws-certified-cloud-practitioner.png" alt="My AWS Certified Cloud Practitioner Badge" width="130" height="130"/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1mrsathekge/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CaronSathekge)
