@@ -1,9 +1,14 @@
 ### Hi there, I'm Caron <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="Matheti-Caron-Sathekge-aws-certified-cloud-practitioner.png" alt="My AWS Certified Cloud Practitioner Badge" width="100" height="100"/>
-LinkedIn: https://www.linkedin.com/in/1mrsathekge/, Kaggle: https://www.kaggle.com/caronsathekge
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1mrsathekge/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CaronSathekge)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]([https://youtube.com/@rishabkumar7](https://www.youtube.com/watch?v=UibOhkZMYW8))
+<br>
+Kaggle: https://www.kaggle.com/caronsathekge
 
 I'm an intern Data Scientist at ExploreAI Academy.
-I am a Mathematical & Computer Science graduate, view here: https://www.youtube.com/watch?v=UibOhkZMYW8.
+I am a Mathematical & Computer Science graduate.
 
 Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learning, AWS EC2.
 
