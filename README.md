@@ -1,4 +1,4 @@
-### Hi there, I'm Caron <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm [Caron](https://mrsathekge.github.io/ds-portfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="Matheti-Caron-Sathekge-aws-certified-cloud-practitioner.png" alt="My AWS Certified Cloud Practitioner Badge" width="150" height="150"/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1mrsathekge/)
@@ -7,9 +7,7 @@
 <br>
 Kaggle: https://www.kaggle.com/caronsathekge
 ---
-
-I'm an intern Data Scientist at ExploreAI Academy.
-I am a Mathematical & Computer Science graduate.
+I am a Mathematical & Computer Science graduate, with experience as an intern Data Scientist at ExploreAI Academy.
 ---
 Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learning, AWS EC2.
 
