@@ -14,12 +14,18 @@ Proficient with SQL, Python, Power BI, Exploratory Data Analysis, Machine Learni
 **Highly Skilled In:**
 Team Leading, Project Management, Time Management, Communication, Data Science Life Cycle.
 ---
-Machine Learning models I've worked on:
+Projects I have worked on:
+- Regression: Used regression machine learning models to predict the three-hourly electricity load shortfall.
+- Classification: Using Natural Language Processing (NLP) and classification machine learning models to classify tweets into negative, positive, neutral, or factual news.
+- Unsupervised learning: Built a movie recommender system that recommends movies to a user, and hosted the web application with the help of AWS.
+- Credit card fraud detection project where I built machine learning models to predict whether a credit transaction is fraudulent or not.
+- Loan default prediction project where the models predict whether a person is most likely to default on their loan or not.
+
+---
+Machine Learning models I have worked on:
 - Regression: Linear Regression, Decision Tree, Random Forest, XGBoost, Voting Regressor, Stacking Regressor.
 - Classification: Logistic Regression, Random Forest Classifier, KNN, Naive Bayes Classifier.
 - Unsupervised: Content-based and collaborative filtering using Singular Value Decomposition, Non-negative Matrix Factorization, Clustering to group movies together based on their similarity in terms of genre, director, actors, and other features, and Principal Component Analysis(PCA) to identify the most important features that contribute to a user's movie preferences.
-- Credit card fraud detection project where I built machine learning models to predict whether a credit transaction is fraudulent or not.
-- Loan default prediction project where the models predict whether a person is most likely to default on their loan or not.
 
 ---
 
